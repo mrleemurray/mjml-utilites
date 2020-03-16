@@ -120,3 +120,10 @@
 <mj-class name="fw-600" font-weight="600"/>
 <mj-class name="fw-700" font-weight="700"/>
 <mj-class name="fw-800" font-weight="800"/>
+
+<!-- letter spacing -->
+<mj-class name="ls-2" letter-spacing="2px"/>
+<mj-class name="ls-4" letter-spacing="4px"/>
+<mj-class name="ls-6" letter-spacing="6px"/>
+<mj-class name="ls-8" letter-spacing="8px"/>
+<mj-class name="ls-10" letter-spacing="10px"/>
