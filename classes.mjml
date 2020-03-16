@@ -1,0 +1,122 @@
+<!-- Tailwind-esque classes for MJML templates -->
+<!-- Insert into <mj-attributes> section of temlplate -->
+
+<!-- width -->
+<mj-class name="w-10" width="10%"/>
+<mj-class name="w-20" width="20%"/>
+<mj-class name="w-30" width="30%"/>
+<mj-class name="w-40" width="40%"/>
+<mj-class name="w-50" width="50%"/>
+<mj-class name="w-60" width="60%"/>
+<mj-class name="w-70" width="70%"/>
+<mj-class name="w-80" width="80%"/>
+<mj-class name="w-90" width="90%"/>
+<mj-class name="w-100" width="100%"/>
+<mj-class name="w-25" width="25%"/>
+<mj-class name="w-75" width="75%"/>
+<mj-class name="w-33" width="33.333%"/>
+<mj-class name="w-66" width="66.666%"/>
+
+<!-- background color -->
+<mj-class name="b-white" background-color="#FFF"/>
+<mj-class name="b-black" background-color="#000"/>
+
+<!-- font color -->
+<mj-class name="t-white" color="#FFF"/>
+<mj-class name="t-black" color="#000"/>
+
+<!-- border radius -->
+<mj-class name="br-0" border-radius="0px"/>
+<mj-class name="br-2" border-radius="2px"/>
+
+<!-- padding -->
+<mj-class name="p-0" padding="0px"/>
+<mj-class name="p-4" padding="4px"/>
+<mj-class name="p-8" padding="8px"/>
+<mj-class name="p-12" padding="12px"/>
+<mj-class name="p-16" padding="16px"/>
+<mj-class name="p-20" padding="20px"/>
+
+<!-- padding top -->
+<mj-class name="pt-0" padding-top="0px"/>
+<mj-class name="pt-4" padding-top="4px"/>
+<mj-class name="pt-8" padding-top="8px"/>
+<mj-class name="pt-12" padding-top="12px"/>
+<mj-class name="pt-16" padding-top="16px"/>
+<mj-class name="pt-20" padding-top="20px"/>
+
+<!-- padding bottom -->
+<mj-class name="pb-0" padding-bottom="0px"/>
+<mj-class name="pb-4" padding-bottom="4px"/>
+<mj-class name="pb-8" padding-bottom="8px"/>
+<mj-class name="pb-12" padding-bottom="12px"/>
+<mj-class name="pb-16" padding-bottom="16px"/>
+<mj-class name="pb-20" padding-bottom="20px"/>
+
+<!-- padding left -->
+<mj-class name="pl-0" padding-left="0px"/>
+<mj-class name="pl-4" padding-left="4px"/>
+<mj-class name="pl-8" padding-left="8px"/>
+<mj-class name="pl-12" padding-left="12px"/>
+<mj-class name="pl-16" padding-left="16px"/>
+<mj-class name="pl-20" padding-left="20px"/>
+
+<!-- padding right -->
+<mj-class name="pr-0" padding-right="0px"/>
+<mj-class name="pr-4" padding-right="4px"/>
+<mj-class name="pr-8" padding-right="8px"/>
+<mj-class name="pr-12" padding-right="12px"/>
+<mj-class name="pr-16" padding-right="16px"/>
+<mj-class name="pr-20" padding-right="20px"/>
+
+<!-- padding vertical -->
+<mj-class name="py-0" padding-top="0px" padding-bottom="0px"/>
+<mj-class name="py-4" padding-top="4px" padding-bottom="4px"/>
+<mj-class name="py-8" padding-top="8px" padding-bottom="8px"/>
+<mj-class name="py-12" padding-top="12px" padding-bottom="12px"/>
+<mj-class name="py-16" padding-top="16px" padding-bottom="16px"/>
+<mj-class name="py-20" padding-top="20px" padding-bottom="20px"/>
+
+<!-- padding horizontal -->
+<mj-class name="px-0" padding-left="0px" padding-right="0px"/>
+<mj-class name="px-4" padding-left="4px" padding-right="4px"/>
+<mj-class name="px-8" padding-left="8px" padding-right="8px"/>
+<mj-class name="px-12" padding-left="12px" padding-right="12px"/>
+<mj-class name="px-16" padding-left="16px" padding-right="16px"/>
+<mj-class name="px-20" padding-left="20px" padding-right="20px"/>
+
+<!-- alignment -->
+<mj-class name="left" align="left"/>
+<mj-class name="right" align="right"/>
+<mj-class name="center" align="center"/>
+
+<!-- font size -->
+<mj-class name="fs-8" font-size="8px"/>
+<mj-class name="fs-12" font-size="12px"/>
+<mj-class name="fs-16" font-size="16px"/>
+<mj-class name="fs-18" font-size="18px"/>
+<mj-class name="fs-24" font-size="24px"/>
+<mj-class name="fs-32" font-size="32px"/>
+<mj-class name="fs-40" font-size="40px"/>
+
+<!-- line height -->
+<mj-class name="lh-1_1" line-height="1.1"/>
+<mj-class name="lh-1_2" line-height="1.2"/>
+<mj-class name="lh-1_3" line-height="1.3"/>
+<mj-class name="lh-1_4" line-height="1.4"/>
+<mj-class name="lh-1_5" line-height="1.5"/>
+<mj-class name="lh-1_6" line-height="1.6"/>
+<mj-class name="lh-1_7" line-height="1.7"/>
+<mj-class name="lh-1_8" line-height="1.8"/>
+<mj-class name="lh-1_9" line-height="1.9"/>
+<mj-class name="lh-2" line-height="2"/>
+
+<!-- font weight -->
+<mj-class name="fw-100" font-weight="100"/>
+<mj-class name="fw-200" font-weight="200"/>
+<mj-class name="fw-300" font-weight="300"/>
+<mj-class name="fw-400" font-weight="400"/>
+<mj-class name="fw-500" font-weight="500"/>
+<mj-class name="fw-600" font-weight="600"/>
+<mj-class name="fw-700" font-weight="700"/>
+<mj-class name="fw-800" font-weight="800"/>
