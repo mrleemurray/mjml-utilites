@@ -20,10 +20,15 @@
 <!-- background color -->
 <mj-class name="b-white" background-color="#FFF"/>
 <mj-class name="b-black" background-color="#000"/>
+<mj-class name="b-pink" background-color="#F0CADA" />
+<mj-class name="b-darkpink" background-color="#D6AFBF" />
+<mj-class name="b-grey" background-color="#272223" />
+<mj-class name="b-blue" background-color="#4FE1FF" />
 
 <!-- font color -->
 <mj-class name="t-white" color="#FFF"/>
 <mj-class name="t-black" color="#000"/>
+<mj-class name="t-grey" color="#272223" />
 
 <!-- border radius -->
 <mj-class name="br-0" border-radius="0px"/>
@@ -36,6 +41,7 @@
 <mj-class name="p-12" padding="12px"/>
 <mj-class name="p-16" padding="16px"/>
 <mj-class name="p-20" padding="20px"/>
+<mj-class name="p-24" padding="24px"/>
 
 <!-- padding top -->
 <mj-class name="pt-0" padding-top="0px"/>
@@ -44,6 +50,7 @@
 <mj-class name="pt-12" padding-top="12px"/>
 <mj-class name="pt-16" padding-top="16px"/>
 <mj-class name="pt-20" padding-top="20px"/>
+<mj-class name="pt-24" padding-top="24px"/>
 
 <!-- padding bottom -->
 <mj-class name="pb-0" padding-bottom="0px"/>
@@ -52,6 +59,7 @@
 <mj-class name="pb-12" padding-bottom="12px"/>
 <mj-class name="pb-16" padding-bottom="16px"/>
 <mj-class name="pb-20" padding-bottom="20px"/>
+<mj-class name="pb-24" padding-bottom="24px"/>
 
 <!-- padding left -->
 <mj-class name="pl-0" padding-left="0px"/>
@@ -60,6 +68,7 @@
 <mj-class name="pl-12" padding-left="12px"/>
 <mj-class name="pl-16" padding-left="16px"/>
 <mj-class name="pl-20" padding-left="20px"/>
+<mj-class name="pl-24" padding="24px" />
 
 <!-- padding right -->
 <mj-class name="pr-0" padding-right="0px"/>
@@ -68,6 +77,7 @@
 <mj-class name="pr-12" padding-right="12px"/>
 <mj-class name="pr-16" padding-right="16px"/>
 <mj-class name="pr-20" padding-right="20px"/>
+<mj-class name="pr-24" padding-right="24px"/>
 
 <!-- padding vertical -->
 <mj-class name="py-0" padding-top="0px" padding-bottom="0px"/>
@@ -76,6 +86,7 @@
 <mj-class name="py-12" padding-top="12px" padding-bottom="12px"/>
 <mj-class name="py-16" padding-top="16px" padding-bottom="16px"/>
 <mj-class name="py-20" padding-top="20px" padding-bottom="20px"/>
+<mj-class name="py-24" padding-top="24px" padding-bottom="24px"/>
 
 <!-- padding horizontal -->
 <mj-class name="px-0" padding-left="0px" padding-right="0px"/>
@@ -84,6 +95,7 @@
 <mj-class name="px-12" padding-left="12px" padding-right="12px"/>
 <mj-class name="px-16" padding-left="16px" padding-right="16px"/>
 <mj-class name="px-20" padding-left="20px" padding-right="20px"/>
+<mj-class name="px-24" padding-left="24px" padding-right="24px"/>
 
 <!-- alignment -->
 <mj-class name="left" align="left"/>
